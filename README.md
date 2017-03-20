@@ -51,7 +51,7 @@ rspec
 Que se passe-t-il ? Pourquoi ?
 
 Comment résoudre le problème ? 
-* Exceptionnellement, j'ai ajouté dans le dépôt un fichier .rspec pour les avoir des options rspec par défaut. Prenez connaissance de son contenu.
+* Exceptionnellement, j'ai ajouté dans le dépôt un fichier .rspec pour avoir des options rspec par défaut. Prenez connaissance de son contenu.
 
 ## 2. Tâches préliminaires
 
