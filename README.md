@@ -90,9 +90,9 @@ Indications :
 * D : Une fois tout au vert, goto B
 
 Méthodes :
-* #initialize: Constructeur prenant en paramètre des entries
-* #entries: Getter sur les entries
-* .load: Méthode de classe qui fait appelle à la classe Loader pour charger des entries depuis un fichier et initialiser un journal. Le premier bougre qui lit réellement le fichier ici aura le droit aux orties ! On mock !
+* #initialize(entries): Constructeur prenant en paramètre des entries
+* #entries: getter sur les entries
+* .load(path): Méthode de classe qui fait appelle à la classe Loader pour charger des entries depuis un fichier et initialiser un journal. Le premier bougre qui lit réellement le fichier ici aura le droit aux orties ! On mock !
 * #count: Renvoie le nombre d'entries dans le journal
 * #add_entry(entry): Ajouter une entry dans le journal (pour l'id, on prendra le max de l'id des entries +1)
 
