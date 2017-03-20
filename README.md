@@ -95,7 +95,6 @@ Méthodes :
 * .load: Méthode de classe qui fait appelle à la classe Loader pour charger des entries depuis un fichier et initialiser un journal. Le premier bougre qui lit réellement le fichier ici aura le droit aux orties ! On mock !
 * #count: Renvoie le nombre d'entries dans le journal
 * #add_entry(entry): Ajouter une entry dans le journal (pour l'id, on prendra le max de l'id des entries +1)
-* #remove_entry(entry_id): Supprime une entry via son champ id
 
 ### 3.2 Implémentez un client Thor!
 [THOOOOR](http://i.imgur.com/YmGKkqs.gif)
