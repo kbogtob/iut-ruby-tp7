@@ -25,7 +25,7 @@ Pour ce projet, on aura besoin de l'application bundle, qui est fournie avec la 
 * [Introduction](https://www.ruby-lang.org/en/libraries/)
 * [Doc officielle de référence](http://guides.rubygems.org/command-reference/)
 * Bien faire une installation locale (dans votre compte), regarder l'option `--user-install` sinon vous n'aurez pas les droits
-* Aide: Il vous faut apprendre à votre système comment accéder à l'extérieur
+* Aide: Il peut être nécessaire apprendre à votre système comment accéder à l'extérieur
 (dans le cadre de l'IUT, un proxy web).
 
 ```sh
