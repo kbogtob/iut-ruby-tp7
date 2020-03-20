@@ -2,7 +2,7 @@ require 'spec_helper'
 
 describe Codex::Entry do
   subject do
-    described_class.new(params)
+    described_class.new(**params)
   end
 
   let(:params) do
